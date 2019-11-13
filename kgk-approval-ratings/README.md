@@ -1,6 +1,6 @@
 # Kolinda Grabar-Kitarović - President of Croatia approval rates
 
-This folder contains data behind the stories: 
+This folder contains the data behind the stories: 
 
 [Podrška radu predsjednice Grabar-Kitarović od početka mandata do danas](https://viborc.com/hr/podrska-radu-predsjednice-grabar-kitarovic-od-pocetka-mandata-do-danas/)
 
