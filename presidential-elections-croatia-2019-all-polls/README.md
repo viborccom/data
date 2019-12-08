@@ -1,4 +1,4 @@
-# All poll results for the next presidential elections in Croatia (2019 - 2020)
+# All polling results for the next presidential elections in Croatia (2019 - 2020)
 
 
 
