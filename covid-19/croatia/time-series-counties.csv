@@ -1,22 +1,22 @@
-CountyName, 21.3.2020, 
-Bjelovarsko-bilogorska,	0,
-Brodsko-posavska,	1,
-Dubrovačko-neretvanska,	14,
-Grad Zagreb,	85,
-Istarska,	25,
-Karlovačka,	12,
-Koprivničko-križevačka,	1,
-Krapinsko-zagorska,	14,
-Ličko-senjska,	1,
-Međimurska,	0,
-Osječko-baranjska,	7,
-Požeško-slavonska,	0,
-Primorsko-goranska,	18,
-Šibensko-kninska,	4,
-Sisačko-moslavačka,	3,
-Splitsko-dalmatinska,	7,
-Varaždinska,	10,
-Virovitičko-podravska,	0,
-Vukovarsko-srijemska,	0,
-Zadarska,	2,
-Zagrebačka,	2,
+CountyName, 21.3.2020, 22.3.2020, 23.3.2020, 24.3.2020
+Bjelovarsko-bilogorska,	0,0,1,2
+Brodsko-posavska,	1,1,1,2
+Dubrovačko-neretvanska,	14,14,14,19
+Grad Zagreb,	85,121,121,177
+Istarska,	25,26,26,34
+Karlovačka,	12,12,12,16
+Koprivničko-križevačka,	1,1,1,1
+Krapinsko-zagorska,	14,18,18,28
+Ličko-senjska,	1,1,1,1
+Međimurska,	0,0,0,1
+Osječko-baranjska,	7,7,7,19
+Požeško-slavonska,	0,0,0,0
+Primorsko-goranska,	18,21,21,28
+Šibensko-kninska,	4,6,6,15
+Sisačko-moslavačka,	3,4,4,5
+Splitsko-dalmatinska,	7,7,7,17
+Varaždinska,	10,11,11,11
+Virovitičko-podravska,	0,0,0,0
+Vukovarsko-srijemska,	0,0,0,0
+Zadarska,	2,2,2,3
+Zagrebačka,	2,2,2,3
