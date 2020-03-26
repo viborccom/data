@@ -2,8 +2,8 @@
 
 This folder contains 2 CSV files.
 
-1) time-series.csv contains cummulative data for Croatia as a country
-2) time-series-counties.csv contains data for all Croatian counties
+1) **time-series.csv** contains cummulative data for Croatia as a country
+2) **time-series-counties.csv** contains data for all Croatian counties
 
 
 Here's the CSV description
