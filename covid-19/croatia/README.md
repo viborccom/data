@@ -20,7 +20,7 @@ Header | Definition
 `Days` | The number of days from the first registered case
 
 
-## time-series-counteis.csv
+## time-series-counties.csv
 
 
 Header | Definition
