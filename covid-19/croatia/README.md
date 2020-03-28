@@ -17,9 +17,11 @@ Header | Definition
 ---|---------
 `Date` | An actual calendar date of the data
 `TotalCases` | The number of total cases recorded from the start of COVID-19 outbreak
-`NewCases` | The number of new cases registered from the last update / day. 
+`NewCases` | The number of new cases registered from the last update / day
 `PercentageChange` | The percentage of growth of new cases compared with the previous record
 `Days` | The number of days from the first registered case
+`TotalRecovered` | The number of people who recovered (cummulative)
+`TotalDied` | The number of people who died (cummulative)
 
 
 ## time-series-counties.csv
