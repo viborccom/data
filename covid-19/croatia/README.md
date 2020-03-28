@@ -1,5 +1,7 @@
 # COVID-19 / SARS-CoV-2 coronavirus data for Croatia
 
+**Important note**: Starting March 28, 2020 - data for City of Zagreb and Zagreb County are shown together under City of Zagreb. Zagreb county data will now be empty fields (, ,).
+
 This folder contains 2 CSV files.
 
 1) **time-series.csv** contains cummulative data for Croatia as a country
