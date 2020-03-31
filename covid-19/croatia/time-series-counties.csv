@@ -1,23 +1,23 @@
-County, 21.3., 22.3., 23.3., 24.3., 25.3., 26.3., 27.3.,28.3.,29.3.,30.3.
-Bjelovarsko-bilogorska,	0,0,1,2,2,2,3,5,5,5
-Brodsko-posavska,	1,1,1,2,2,2,3,3,5,4
-Dubrovačko-neretvanska,	14,14,14,19,21,22,23,28,29,30
-Grad Zagreb,	85,121,121,177,202,225,268,286,309,332
-Istarska,	25,26,26,34,37,40,49,60,65,68
-Karlovačka,	12,12,12,16,18,18,18,18,20,20
-Koprivničko-križevačka,	1,1,1,1,1,1,1,2,3,3
-Krapinsko-zagorska,	14,18,18,28,33,36,39,39,49,54
-Ličko-senjska,	1,1,1,1,1,1,1,1,1,1
-Međimurska,	0,0,0,1,2,2,2,2,2,2
-Osječko-baranjska,	7,7,7,19,25,31,35,39,42,46
-Požeško-slavonska,	0,0,0,0,0,0,0,0,0,0
-Primorsko-goranska,	18,21,21,28,34,35,35,38,38,43
-Šibensko-kninska,	4,6,6,15,15,15,15,22,23,23
-Sisačko-moslavačka,	3,4,4,5,5,7,13,13,13,14
-Splitsko-dalmatinska,	7,7,7,17,23,34,44,61,61,88
-Varaždinska,	10,11,11,11,11,14,18,19,19,21
-Virovitičko-podravska,	0,0,0,0,0,0,0,0,0,0
-Vukovarsko-srijemska,	0,0,0,0,1,1,2,3,7,11
-Zadarska,	2,2,2,3,6,6,16,18,18,25
-Zagrebačka,	2,2,2,3,3,3,3,,,
-Hrvatska,206,254,315,382,442,495,586,657,713,790
+County, 21.3., 22.3., 23.3., 24.3., 25.3., 26.3., 27.3.,28.3.,29.3.,30.3.,31.3.
+Bjelovarsko-bilogorska,	0,0,1,2,2,2,3,5,5,5,5
+Brodsko-posavska,	1,1,1,2,2,2,3,3,5,4,8
+Dubrovačko-neretvanska,	14,14,14,19,21,22,23,28,29,30,32
+Grad Zagreb,	85,121,121,177,202,225,268,286,309,332,362
+Istarska,	25,26,26,34,37,40,49,60,65,68,68
+Karlovačka,	12,12,12,16,18,18,18,18,20,20,20
+Koprivničko-križevačka,	1,1,1,1,1,1,1,2,3,3,4
+Krapinsko-zagorska,	14,18,18,28,33,36,39,39,49,54,59
+Ličko-senjska,	1,1,1,1,1,1,1,1,1,1,1
+Međimurska,	0,0,0,1,2,2,2,2,2,2,2
+Osječko-baranjska,	7,7,7,19,25,31,35,39,42,46,57
+Požeško-slavonska,	0,0,0,0,0,0,0,0,0,0,1
+Primorsko-goranska,	18,21,21,28,34,35,35,38,38,43,46
+Šibensko-kninska,	4,6,6,15,15,15,15,22,23,23,24
+Sisačko-moslavačka,	3,4,4,5,5,7,13,13,13,14,15
+Splitsko-dalmatinska,	7,7,7,17,23,34,44,61,61,88,96
+Varaždinska,	10,11,11,11,11,14,18,19,19,21,21
+Virovitičko-podravska,	0,0,0,0,0,0,0,0,0,0,1
+Vukovarsko-srijemska,	0,0,0,0,1,1,2,3,7,11,13
+Zadarska,	2,2,2,3,6,6,16,18,18,25,32
+Zagrebačka,	2,2,2,3,3,3,3,,,,
+Hrvatska,206,254,315,382,442,495,586,657,713,790,867
