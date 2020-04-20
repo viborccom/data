@@ -24,6 +24,7 @@ Header | Definition
 `Days` | The number of days from the first registered case
 `TotalRecovered` | The number of people who recovered (cummulative)
 `TotalDied` | The number of people who died (cummulative)
+`ActiveCases` | The number of currently active cases ('TotalCases' - 'TotalRecovered')
 
 
 ## time-series-counties.csv
