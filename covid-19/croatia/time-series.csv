@@ -1,4 +1,5 @@
 Date,TotalCases,NewCases,PercentChange,Days,TotalRecovered,TotalDied,ActiveCases
+1.5.2020,2085,9,0.43,67,1421,75,664
 30.4.2020,2076,14,0.68,66,1348,69,728
 29.4.2020,2062,15,0.73,65,1288,67,774
 28.4.2020,2047,8,0.39,64,1232,63,815
@@ -65,4 +66,3 @@ Date,TotalCases,NewCases,PercentChange,Days,TotalRecovered,TotalDied,ActiveCases
 27.2.2020,3,0,0.00,3,0,0,3
 26.2.2020,3,2,200.00,2,0,0,3
 25.2.2020,1,1,0,1,0,0,1
-
